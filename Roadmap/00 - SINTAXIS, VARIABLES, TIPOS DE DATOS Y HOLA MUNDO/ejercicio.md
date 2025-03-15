@@ -1,9 +1,6 @@
 # #00 SINTAXIS, VARIABLES, TIPOS DE DATOS Y HOLA MUNDO
 > #### Dificultad: Fácil | Publicación: 26/12/23 | Corrección: 02/01/24
 
-## Ejercicio
-
-```
 /*
  * ¿Preparad@ para aprender o repasar el lenguaje de programación que tú quieras?
  * - Recuerda que todas las instrucciones de participación están en el
@@ -26,7 +23,18 @@
  *
  * ¿Fácil? No te preocupes, recuerda que esta es una ruta de estudio y
  * debemos comenzar por el principio.
+
  */
+
+## RESPUESTA:
+
+https://www.python.org
+
+"""
+ESTE ES UN EJEMPLO
+"""
+
+ 
 ```
 #### Tienes toda la información extendida sobre el roadmap de retos de programación en **[retosdeprogramacion.com/roadmap](https://retosdeprogramacion.com/roadmap)**.
 
